@@ -16,3 +16,5 @@ My other Maven projects may be helpful when starting the investigation of the co
 https://github.com/meta-modeler/maven-executable-jar
 - the one for creating the multimodule Maven projects:
 https://github.com/meta-modeler/maven-multimodule-project
+
+There is also an alternative SpringBoot project outline (can be built but is not finished yet): https://github.com/meta-modeler/gRPC-Java-SpringBoot-Maven-HelloWorld

@@ -14,5 +14,5 @@ The project builds correctly under Windows (verified) and perhaps under other op
 My other Maven projects may be helpful when starting the investigation of the content of this project:
 - the one for building the executable Jar files:
 https://github.com/meta-modeler/maven-executable-jar
-- the one for creating multimodule Maven projects:
+- the one for creating the multimodule Maven projects:
 https://github.com/meta-modeler/maven-multimodule-project
